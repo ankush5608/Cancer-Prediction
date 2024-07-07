@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+CancPredenv/
+.env/
+.envrc
+*.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.cache
+
+# Env files
+*.env
+
+# VSCode files
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Streamlit files
+.streamlit/
